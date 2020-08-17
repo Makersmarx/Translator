@@ -2,9 +2,9 @@
 Created with CodeSandbox
 
 # React Practice App 
-Instructor Stephen Grider
-From Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App. Includes Hooks! 
-Udemy Course Intro
+- Instructor Stephen Grider
+- From Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App. Includes Hooks! 
+- Udemy Course Intro
 
 Modern React with Redux - Course Update!
 
